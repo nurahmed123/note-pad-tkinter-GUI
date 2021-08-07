@@ -27,7 +27,7 @@ Application link :https://drive.google.com/file/d/1y4rYEeblmMprr87oxgVXd0gcQTGIL
 
 # More information
 
-f you have any types of problem related programming, problem solving, projects so contact with us.
+If you have any types of problem related programming, problem solving, projects so contact with us.
 
 Facebook page : https://www.facebook.com/EEE-project-solution-lab-107106394047092/?ref=pages_you_manage
 
